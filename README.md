@@ -1,44 +1,44 @@
 <!--
   Profile README for Jayanth E
-  Theme: Dark Luxury • Purple/Indigo/Violet • AI Engineering Portfolio
+  Theme: Cyber Ocean • Cyan/Teal/Blue • Premium AI Engineering Portfolio
 -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=0:020617,25:1e1b4b,50:4c1d95,75:7c3aed,100:2563eb&text=JAYANTH%20E&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Digital%20Twin%20Builder%20%E2%80%A2%20RAG%20Explorer&descAlignY=58&descSize=17" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=265&section=header&color=0:020617,25:064e3b,50:0891b2,75:0ea5e9,100:38bdf8&text=JAYANTH%20E&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20RAG%20Builder%20%E2%80%A2%20Digital%20Twin%20Explorer&descAlignY=58&descSize=17" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=1000&height=55&lines=Engineering+AI-powered+products+from+idea+to+impact;Building+RAG+systems%2C+Digital+Twins+and+Full+Stack+apps;Learning+Agentic+AI+%7C+Vector+Search+%7C+Cloud+Engineering;Code.+Build.+Break.+Improve.+Ship." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=1000&height=58&lines=Building+AI-powered+products+with+clean+engineering;Full+Stack+Developer+%7C+AI%2FML+Learner+%7C+Problem+Solver;RAG+Systems+%7C+Agentic+AI+%7C+Digital+Twin+Projects;Think.+Design.+Build.+Debug.+Ship." alt="Typing SVG" />
 </p>
 
 <br>
 
 <p align="center">
   <a href="mailto:ejayanth2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ejayanth2006%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-ejayanth2006%40gmail.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/jayanth-e-b76094328/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jayanth%20E-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Jayanth%20E-0284c7?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Jayanth7375">
     <img src="https://img.shields.io/badge/GitHub-Jayanth7375-020617?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/JAYANTH7375/">
-    <img src="https://img.shields.io/badge/LeetCode-JAYANTH7375-f59e0b?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://leetcode.com/u/JAYANTH_7375/">
+    <img src="https://img.shields.io/badge/LeetCode-JAYANTH_7375-0f766e?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence%20%26%20Data%20Science-Sri%20Eshwar%20College-4c1d95?style=flat-square&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tamil%20Nadu-India-2563eb?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=Jayanth7375&label=Profile%20Views&color=7c3aed&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Jayanth7375?label=Followers&style=flat-square&color=a855f7" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence%20%26%20Data%20Science-Sri%20Eshwar%20College-0f766e?style=flat-square&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tamil%20Nadu-India-0284c7?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=Jayanth7375&label=Profile%20Views&color=0891b2&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Jayanth7375?label=Followers&style=flat-square&color=0ea5e9" />
 </p>
 
 <br>
 
 <p align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jayanth7375&custom_title=Jayanth%20E%20%7C%20Engineering%20Activity%20Graph&bg_color=020617&color=c4b5fd&line=8b5cf6&point=ffffff&area=true&area_color=7c3aed&hide_border=true" />
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jayanth7375&custom_title=Jayanth%20E%20%7C%20Engineering%20Activity%20Map&bg_color=020617&color=67e8f9&line=22d3ee&point=ffffff&area=true&area_color=0891b2&hide_border=true" />
 </p>
 
 ---
@@ -47,18 +47,18 @@
 <tr>
 <td width="58%">
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I am **Jayanth E**, an **Artificial Intelligence and Data Science** student focused on building practical, intelligent and scalable software systems.
+I am **Jayanth E**, an **Artificial Intelligence and Data Science** student focused on building useful, intelligent and scalable software systems.
 
-My core interest is not just learning technologies, but turning them into **working products**. I enjoy building systems that combine **AI, full stack development, digital twins, document intelligence, automation and clean engineering design**.
+I like converting ideas into real products using **AI, full stack development, RAG pipelines, digital twins, automation and clean engineering design**.
 
-I am currently moving deeper into **Agentic AI**, **RAG**, **vector databases**, **LLM tooling**, and **cloud-ready product development**.
+My current journey is focused on becoming strong in **Agentic AI**, **Vector Search**, **RAG**, **LLM tools**, **Cloud Engineering**, and **product-grade full stack development**.
 
 </td>
 <td width="42%">
 
-## ⚡ Developer Identity
+## ⚡ Developer Profile
 
 ```yaml
 name: Jayanth E
@@ -67,14 +67,14 @@ college: Sri Eshwar College of Engineering
 department: Artificial Intelligence and Data Science
 location: Tamil Nadu, India
 
-focus:
-  - AI Engineering
-  - Full Stack Development
-  - RAG Systems
-  - Digital Twins
+current_focus:
   - Agentic AI
+  - RAG Systems
+  - Full Stack Apps
+  - Digital Twin Projects
+  - Cloud Engineering
 
-mission: Build products that solve real problems.
+builder_mode: Always ON
 ```
 
 </td>
@@ -83,7 +83,7 @@ mission: Build products that solve real problems.
 
 ---
 
-## 🧠 Engineering Command Center
+## 🧠 Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,figma,linux,aws,docker&theme=dark&perline=10" />
@@ -94,22 +94,22 @@ mission: Build products that solve real problems.
 <table align="center">
 <tr>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Languages-020617?style=for-the-badge&logo=codeforces&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Languages-020617?style=for-the-badge&logo=codeforces&logoColor=22d3ee" />
   <br><br>
   Python · C++ · Java · C · JavaScript
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Frontend-020617?style=for-the-badge&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/Frontend-020617?style=for-the-badge&logo=react&logoColor=38bdf8" />
   <br><br>
   HTML · CSS · React · Tailwind
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Backend-020617?style=for-the-badge&logo=nodedotjs&logoColor=22c55e" />
+  <img src="https://img.shields.io/badge/Backend-020617?style=for-the-badge&logo=nodedotjs&logoColor=2dd4bf" />
   <br><br>
   Node.js · Express · APIs
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Database-020617?style=for-the-badge&logo=mongodb&logoColor=22c55e" />
+  <img src="https://img.shields.io/badge/Database-020617?style=for-the-badge&logo=mongodb&logoColor=34d399" />
   <br><br>
   MongoDB · MySQL
 </td>
@@ -119,20 +119,20 @@ mission: Build products that solve real problems.
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=tensorflow&logoColor=f97316" />
-  <img src="https://img.shields.io/badge/RAG%20Systems-111827?style=for-the-badge&logo=googlegemini&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=tensorflow&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-111827?style=for-the-badge&logo=googlegemini&logoColor=22d3ee" />
   <img src="https://img.shields.io/badge/Agentic%20AI-111827?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector%20Search-111827?style=for-the-badge&logo=databricks&logoColor=ff5f46" />
+  <img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=2dd4bf" />
+  <img src="https://img.shields.io/badge/Vector%20Search-111827?style=for-the-badge&logo=databricks&logoColor=0ea5e9" />
 </p>
 
 ---
 
-## 🧬 AI / ML Expertise Matrix
+## 🤖 AI / ML Expertise Matrix
 
 | Domain | Current Level | What I Build / Learn |
 |---|---:|---|
-| **Machine Learning** | Intermediate | Data preprocessing, model training, evaluation, feature engineering |
+| **Machine Learning** | Intermediate | Data preprocessing, training, evaluation, feature engineering |
 | **NLP** | Intermediate | Tokenization, stemming, lemmatization, sentiment analysis, text mining |
 | **RAG Systems** | Building | Chunking, embeddings, vector search, retrievers, rerankers, local LLM workflows |
 | **Agentic AI** | Learning Deeply | Tool calling, workflows, memory, planning, LangChain and LangGraph concepts |
@@ -142,14 +142,14 @@ mission: Build products that solve real problems.
 
 ---
 
-## 🚀 Featured Project Universe
+## 🚀 Featured Project Lab
 
 <details open>
-<summary><b>🟣 LeakSense Twin — Digital Twin Based Engine Leak Detection</b></summary>
+<summary><b>🌊 LeakSense Twin — Digital Twin Based Engine Leak Detection</b></summary>
 
 <br>
 
-A high-impact engineering system designed to detect and isolate **intake and exhaust air leaks** in engine environments using a combination of **digital twin modeling**, **machine learning**, and **system-level diagnostics**.
+A smart engineering system designed to detect and isolate **intake and exhaust air leaks** in engine environments using **digital twin modeling**, **machine learning**, and **system-level diagnostics**.
 
 | Dimension | Details |
 |---|---|
@@ -161,16 +161,16 @@ A high-impact engineering system designed to detect and isolate **intake and exh
 | **Repository** | [GitHub](https://github.com/Jayanth7375) |
 
 **Impact Statement:**  
-This project represents my interest in solving engineering problems using AI, data-driven monitoring and product-focused thinking.
+This project reflects my interest in using AI to solve real engineering problems through data-driven monitoring and intelligent diagnostics.
 
 </details>
 
 <details>
-<summary><b>🔮 Aetheria — Offline Multimodal RAG System</b></summary>
+<summary><b>🧊 Aetheria — Offline Multimodal RAG System</b></summary>
 
 <br>
 
-A privacy-focused AI system built around **offline document intelligence**. The goal is to allow users to upload documents, extract knowledge, search intelligently and interact with local LLMs.
+A privacy-focused AI system built around **offline document intelligence**. The goal is to help users upload documents, extract knowledge, search intelligently and interact with local LLMs.
 
 | Dimension | Details |
 |---|---|
@@ -182,12 +182,12 @@ A privacy-focused AI system built around **offline document intelligence**. The 
 | **Repository** | [GitHub](https://github.com/Jayanth7375) |
 
 **Impact Statement:**  
-Aetheria is part of my journey into real AI engineering: combining LLMs, retrieval pipelines and product usability.
+Aetheria is part of my AI engineering journey where I combine LLMs, retrieval pipelines and practical product thinking.
 
 </details>
 
 <details>
-<summary><b>🧩 Symbiont — AI Powered Compliance & Remediation Platform</b></summary>
+<summary><b>🛰️ Symbiont — AI Powered Compliance & Remediation Platform</b></summary>
 
 <br>
 
@@ -208,7 +208,7 @@ Symbiont reflects my interest in building enterprise-grade AI products with dash
 </details>
 
 <details>
-<summary><b>📚 MKP Edtech — Student Learning Platform</b></summary>
+<summary><b>📘 MKP Edtech — Student Learning Platform</b></summary>
 
 <br>
 
@@ -230,7 +230,7 @@ MKP Edtech is my product vision for combining education, technology and accessib
 
 ---
 
-## 🏆 Achievements & Builder Signals
+## 🏆 Builder Signals
 
 <table align="center">
 <tr>
@@ -264,10 +264,10 @@ MKP Edtech is my product vision for combining education, technology and accessib
 ## 📜 Certification & Learning Tracks
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Learning-232f3e?style=for-the-badge&logo=amazonaws&logoColor=ff9900" />
-  <img src="https://img.shields.io/badge/Oracle-Database%20Learning-f80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPTEL-Certification%20Track-4c1d95?style=for-the-badge&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Learning-1ba0d7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Learning-0f172a?style=for-the-badge&logo=amazonaws&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Oracle-Database%20Learning-0f172a?style=for-the-badge&logo=oracle&logoColor=22d3ee" />
+  <img src="https://img.shields.io/badge/NPTEL-Certification%20Track-0f172a?style=for-the-badge&logo=bookstack&logoColor=2dd4bf" />
+  <img src="https://img.shields.io/badge/Cisco-Networking%20Learning-0f172a?style=for-the-badge&logo=cisco&logoColor=38bdf8" />
 </p>
 
 ---
@@ -275,8 +275,8 @@ MKP Edtech is my product vision for combining education, technology and accessib
 ## 🧑‍💻 Coding Arena
 
 <p align="center">
-  <a href="https://leetcode.com/u/JAYANTH7375/">
-    <img src="https://img.shields.io/badge/LeetCode-JAYANTH7375-020617?style=for-the-badge&logo=leetcode&logoColor=f59e0b" />
+  <a href="https://leetcode.com/u/JAYANTH_7375/">
+    <img src="https://img.shields.io/badge/LeetCode-JAYANTH_7375-020617?style=for-the-badge&logo=leetcode&logoColor=22d3ee" />
   </a>
   <a href="https://github.com/Jayanth7375">
     <img src="https://img.shields.io/badge/GitHub-Code%20Vault-020617?style=for-the-badge&logo=github&logoColor=white" />
@@ -286,8 +286,8 @@ MKP Edtech is my product vision for combining education, technology and accessib
 <br>
 
 <p align="center">
-  <a href="https://leetcode.com/u/JAYANTH7375/">
-    <img width="520" src="https://leetcard.jacoblin.cool/JAYANTH7375?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/JAYANTH_7375/">
+    <img width="530" src="https://leetcard.jacoblin.cool/JAYANTH_7375?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
 
@@ -298,24 +298,24 @@ MKP Edtech is my product vision for combining education, technology and accessib
 <table align="center">
 <tr>
 <td align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Jayanth7375&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=020617&title_color=c4b5fd&icon_color=8b5cf6&text_color=e5e7eb&ring_color=7c3aed" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Jayanth7375&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee&icon_color=38bdf8&text_color=e5e7eb&ring_color=0891b2" />
 </td>
 <td align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanth7375&layout=compact&theme=midnight-purple&hide_border=true&bg_color=020617&title_color=c4b5fd&text_color=e5e7eb" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanth7375&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=e5e7eb" />
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Jayanth7375&theme=midnight-purple&hide_border=true&background=020617&ring=8b5cf6&fire=a855f7&currStreakLabel=c4b5fd&sideLabels=e5e7eb&dates=94a3b8" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Jayanth7375&theme=tokyonight&hide_border=true&background=020617&ring=22d3ee&fire=38bdf8&currStreakLabel=67e8f9&sideLabels=e5e7eb&dates=94a3b8" />
 </p>
 
 ---
 
-## 🏅 GitHub Trophy Wall
+## 🏅 Trophy Wall
 
 <p align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Jayanth7375&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" />
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Jayanth7375&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" />
 </p>
 
 ---
@@ -369,29 +369,29 @@ Open_To:
 
 <p align="center">
   <a href="mailto:ejayanth2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ejayanth2006%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-ejayanth2006%40gmail.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/jayanth-e-b76094328/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jayanth%20E-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Jayanth%20E-0284c7?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Jayanth7375">
     <img src="https://img.shields.io/badge/GitHub-Jayanth7375-020617?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/JAYANTH7375/">
-    <img src="https://img.shields.io/badge/LeetCode-JAYANTH7375-f59e0b?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://leetcode.com/u/JAYANTH_7375/">
+    <img src="https://img.shields.io/badge/LeetCode-JAYANTH_7375-0f766e?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=850&lines=I+do+not+just+learn+technology.+I+build+with+it.;Every+project+is+a+step+towards+better+engineering.;AI+%2B+Software+%2B+Product+Thinking+%3D+My+Builder+Path." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=850&lines=I+do+not+just+learn+technology.+I+build+with+it.;Every+project+is+a+step+towards+better+engineering.;AI+%2B+Software+%2B+Product+Thinking+%3D+My+Builder+Path." />
 </p>
 
 <p align="center">
-  <b>“Engineering intelligent systems with clarity, consistency and impact.”</b>
+  <b>“Building intelligent systems with clarity, consistency and real-world impact.”</b>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:2563eb,35:7c3aed,70:4c1d95,100:020617" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=155&section=footer&color=0:38bdf8,35:0ea5e9,70:0891b2,100:020617" />
 </p>
